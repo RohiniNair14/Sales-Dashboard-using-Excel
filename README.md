@@ -1,5 +1,7 @@
 # Sales-Dashboard-using-Excel
 
+<img width="939" alt="image" src="https://github.com/RohiniNair14/Sales-Dashboard-using-Excel/assets/89699921/34087a72-ebd7-4550-b1e3-b5b8a22f0600">
+
 This project involves the creation of a comprehensive sales dashboard using Microsoft Excel. The objective of the project is to analyze sales data from 2014 to 2017, identify key trends, and derive actionable insights regarding product categories, sub-categories, and customer contributions to overall sales. The dashboard provides an interactive platform for users to explore sales data, allowing them to filter by year and delve into various aspects of the sales performance.
 
 ## Business Problem
@@ -45,3 +47,6 @@ Tools and Technologies Used
 * Slicers: To provide an interactive user experience for exploring data across different years.
 
 The sales dashboard created in this project provides valuable insights into the company's sales performance. It helps identify the most profitable product categories, top customers, and significant sales trends over the years. This information is crucial for strategic planning and decision-making.
+
+
+
